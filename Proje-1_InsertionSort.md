@@ -45,4 +45,3 @@ Cevap 4 ) Veri setinin ortasında olduğu için average case kapsamına girer.
 [Ödev Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
 
 [Patika.Dev Profile](https://app.patika.dev/mehmetkozanoglu)
-yes
