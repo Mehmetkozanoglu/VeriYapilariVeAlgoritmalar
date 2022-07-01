@@ -21,3 +21,7 @@
  - Big-O gösterimini yazınız.
 
 O(n*(logn)) --> O(6*(log6)) olacaktır. 
+
+[Ödev Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
+
+[Patika.Dev Profil](https://app.patika.dev/mehmetkozanoglu)
